@@ -287,8 +287,7 @@ int main()
         preenche_vetor(bubble[L], sizes[L], disposicao);
     }
 
-    // =-=-=-=-=-=-=-=-=-=-=-=-= (Main.5) ***
-    
+    // =-=-=-=-=-=-=-=-=-=-=-=-= (Main.5) *** 
     printf("\n-----------------------------------------------------------------\n");
     for (int L=0; L<QTDE; L++)
     {
@@ -399,7 +398,7 @@ int main()
   -> Sessão 2 - Referente ao preenchimento dos vetores
       └ sub-sessão (2.1): preenche um vetor e disposiciona os valores comforme a indicação;
       └ sub-sessão (2.2): printa os valores de um vetor.
-SA
+
   -> Sessão Main - Método principal
       └ sub-sessão (Main.1): responsável pela criação das variáveis e pelas defições dos seletores ;
       └ sub-sessão (Main.2): loop responsável pelo preenchimento dos vetores;
